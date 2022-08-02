@@ -1,0 +1,19 @@
+.navbar{
+    display:flex;
+    width:100%;
+    height:80px;
+    background:linear-gradient( rgb(244, 239, 239),orange 60% );
+    justify-content: space-between;
+}
+.button{
+    height:40px;
+    width:100px;
+    margin-top: 500px;
+
+}
+h1{
+    margin-left: 40px;
+    margin-top: 20px;
+    color:blue;
+    cursor:pointer
+}
